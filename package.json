@@ -1,0 +1,25 @@
+{
+  "name": "discord-simple-list-bot",
+  "version": "1.0.0",
+  "description": "Upgraded version of original discord grocery bot going from Python -> JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmaridev/discord-simple-list-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmaridev/discord-simple-list-bot/issues"
+  },
+  "homepage": "https://github.com/jmaridev/discord-simple-list-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "nedb": "^1.8.0"
+  }
+}
